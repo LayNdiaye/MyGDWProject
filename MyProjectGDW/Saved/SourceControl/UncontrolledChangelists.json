@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Dell/Documents/Unreal Projects/MyGDWProject/MyProjectGDW/Content/FirstPerson/Blueprints/NewBlueprint.uasset",
+				"C:/Users/Dell/Documents/Unreal Projects/MyGDWProject/MyProjectGDW/Content/Bullet/Bullet.uasset",
+				"C:/Users/Dell/Documents/Unreal Projects/MyGDWProject/MyProjectGDW/Content/Bullet/Turret.uasset",
+				"C:/Users/Dell/Documents/Unreal Projects/MyGDWProject/MyProjectGDW/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1I/I0F37FANL5PMLNKGT857OD.uasset",
 				"C:/Users/Dell/Documents/Unreal Projects/MyProjectGDW/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Dell/Documents/Unreal Projects/MyProjectGDW/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/B/92/W2DQQSHHTCS6M776WZHQ9J.uasset"
 			]
